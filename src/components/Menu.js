@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import axios from 'axios';
 
-const API_URL = 'http://10.0.75.1:8280/pizzashack/1.0.0';
+//const API_URL = 'http://10.0.75.1:8280/pizzashack/1.0.0';
+const API_URL = 'https://localhost:8243/pizzashack/1.0.0';
 
 class Menu extends Component {
 
